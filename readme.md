@@ -80,7 +80,7 @@ python ${WORK_DIR}/gen_answering.py \
     --batch_size 1
 ```
 
-#### Truthfulness
+#### TruthfulQA
 Generate model responses for AlpacaEval(truthfulness) by `gen_truthfulness.py`  
 
 For pre-trained model:
@@ -106,7 +106,7 @@ python ${WORK_DIR}/gen_truthfulness.py \
 ```
 
 
-#### Translation
+#### WMT
 Generate model responses for WMT by `gen_translation.py`  
 
 For pre-trained model:
