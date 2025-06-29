@@ -1,6 +1,8 @@
 ## Overview
 This is the anonymized version code for our paper *Beyond the Surface: Measuring Self-Preference in LLM Judgments*.
 
+## Schematic for DBG Score
+![Schematic Diagram of DBG Score Calculation](flowchart.png)
 
 
 ## Data
